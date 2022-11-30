@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Светофор</string>
+    <string name="hello">Нажми на меня</string>
+    <string name="hello2">Цвет светофора</string>
+    <string name="todo">TODO</string>
+    <string name="helloe">Цвет светофора</string>
+</resources>
